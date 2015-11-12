@@ -4,10 +4,10 @@
 
     <groupId>com.thoth</groupId>
     <artifactId>release-sample</artifactId>
-    <version>1.0</version>
+    <version>1.0-SNAPSHOT</version>
 
     <scm>
-        <developerConnection>scm:git:git@github.com:RCFans/jenkins.git</developerConnection>
+        <developerConnection>scm:git:git@github.com:RCFans/release-sample.git</developerConnection>
       <tag>release-sample-1.0</tag>
   </scm>
 
